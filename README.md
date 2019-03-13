@@ -1,4 +1,6 @@
 
+
+
 # Building a Robust Machine Learning Pipeline
 
 ## Download and Install Anaconda
@@ -6,6 +8,8 @@
 The open source Anaconda Distribution is the fastest and easiest way to do Python, data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
 Download and install the latest version: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+
+
 [Machine Learning Training](https://learning.oreilly.com/live-training/courses/building-a-robust-machine-learning-pipeline/0636920236344/)
 
 VIDEO TUTORIAL: [Python - Install Anaconda, Jupyter Notebook, Spyder on Windows 10](https://www.youtube.com/watch?v=Q0jGAZAdZqM)
